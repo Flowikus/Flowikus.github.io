@@ -1,0 +1,45 @@
+html {
+    font-family: "Oswald", sans-serif;
+    background-color: #73613E;
+}
+body {
+    background-color:#F2DBB1;
+    width: 800px;
+    margin: 0 auto;
+}
+.done {
+    color: darkgreen;
+    text-decoration: line-through solid black 2px;
+}
+p {
+    font-size: 24px;
+    color: #696255;
+    margin: 16px 0;
+    text-align: center;
+}
+button {
+    display: block;
+    margin: 16px auto;
+}
+a {
+    color: #696255;
+}
+h1 {
+    font-size: 52px;
+    text-align: center;
+    color: #696255;
+    line-height: 1.5;
+    margin: 0 0 16px 0;
+    text-shadow: 3px 3px 1px darkcyan;
+}
+ul {
+    font-size: 18px;
+    color: #696255;
+    text-align: center;
+    margin: 0 250px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
